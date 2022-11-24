@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#' dir="ltr" lang="ru">
+<html prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# product: https://ogp.me/ns/product#' dir="ltr" lang="ru">
 <head>
 <meta charset="UTF-8" />
 <title>Главная страница проекта Зохана по прозвищу Сладкий Буболех</title>
