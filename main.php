@@ -45,7 +45,7 @@
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
-                    <?php echo $name, ' ', $surname . '<br>' $fikename. '<br>'; 
+                    <?php echo $name, ' ', $surname . '<br>' $feikname. '<br>'; 
                           echo 'город', ' ', $city; ?>                                      
                     </p> 
            
