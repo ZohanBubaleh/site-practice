@@ -14,7 +14,7 @@
 <meta property="og:site_name" content="f0746162.xsph.ru"/>
 <meta property="og:title" content="Главная страница проекта Зохана по прозвищу Сладкий Бубалех f0746162.xsph.ru"/>
 <meta property="og:url" content="f0746162.xsph.ru"/>
-<meta property="og:description" content="Сладкий Бубалех где купить в Ростове-на-Дону газировку лучшее детское щампанское"/>
+<meta property="og:description" content="Сладкий Бубалех где купить в Ростове-на-Дону газировку лучшее детское шампанское"/>
 <meta property="og:locale" content="ru_RU"/>
 <meta property="og:restrictions:age" content="14+"/>
 <meta property="og:image" content="http://f0746162.xsph.ru/img/Avatar-Glaza.jpg"/>
