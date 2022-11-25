@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <title>Главная страница проекта Зохана по прозвищу Сладкий Бубалех</title>
 <base href="http://f0746162.xsph.ru/" />						
-<meta name="description" content="Сладкий Бубалех где купить в Ростове-на-Дону газировку лучшее детское щампанское" />
+<meta name="description" content="Сладкий Бубалех где купить в Ростове-на-Дону газировку лучшее детское шампанское" />
 <meta name="keywords" content="Газированный напиток, Сладкий Бубалех, шипучка, запивон, газировка, сладкая вода, детское шампанское"/>
 <meta name="viewport" content="width=device-width, initial-scale=0.1, user-scalable=yes"/>
 <meta name='HandheldFriendly' content='true'/>
