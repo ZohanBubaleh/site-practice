@@ -2,7 +2,7 @@
 
 html,
 body {
-    height: 100%;
+    height: 90%;
     }
 
 .greetings,
@@ -26,7 +26,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 25%;
+    height: 20%;
     margin-bottom: 3em;
     background-color: #5D366D;
     }
@@ -43,7 +43,7 @@ ul li {
 li a {
     text-decoration: none;
     font-family: tahoma, verdana, serif;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: #FFFFff;
     font-weight: 800;
     }
@@ -57,7 +57,7 @@ li a {
 .about_me {
     display: flex;
     flex-direction: column;
-    flex: 1 0 auto;
+    flex: 0 0 auto;
     
     }
 
@@ -72,7 +72,7 @@ li a {
     }
 
 .myImg {
-    margin-top: 150px;
+    margin-top: 20px;
     padding-left: 20px;
     flex-basis: 450px;
     }
@@ -94,7 +94,7 @@ p {
     }
 
 .text {
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: #585858;
     }
 
@@ -106,7 +106,7 @@ h2 {
 h1 {
     color: #08298A;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.6rem;
     }
 
 .footer {
