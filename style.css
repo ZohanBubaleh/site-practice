@@ -2,7 +2,7 @@
 
 html,
 body {
-    height: 90%;
+    height: 100%;
     }
 
 .greetings,
@@ -96,7 +96,7 @@ p {
 
 .text {
     font-family: tahoma, verdana, serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: #585858;
     }
 
