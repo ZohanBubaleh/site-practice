@@ -37,7 +37,7 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" title="Сладкий Буболех - это Вам не фунт изюма" width=400" height="400">'; ?>                    
+                    <?php  echo '<img src="/img/Fizzy-Bubaleh-2.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" title="Сладкий Буболех - это Вам не фунт изюма" width=400" height="400">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
