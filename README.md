@@ -1,3 +1,3 @@
 # site-practice сайт на бесплатном хостинге http://f0746162.xsph.ru/
 сайт на бесплатном хостинге
-http://f0746162.xsph.ru/
+http://f0746162.xsph.ru/index.php
