@@ -67,8 +67,8 @@ li a {
     flex-direction: column;
     flex: 0 0 auto;
     font-family: tahoma, verdana, serif;
-    font-size: 1.1rem;
-    color: #F9F0A8;
+    font-size: 1.0rem;
+    color: #08298A;
     }
 .data {
     display: flex;
