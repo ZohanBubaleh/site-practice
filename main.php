@@ -28,7 +28,7 @@
 <link rel="dns-prefetch" href="//f0746162.xsph.ru/">
 <link rel="dns-prefetch" href="//google-analytics.com/">
 <link rel="dns-prefetch" href="//www.googletagmanager.com/">
-<link href="http://f0746162.xsph.ru/img/favicon.ico rel="icon" />
+<link href="http://f0746162.xsph.ru/favicon.ico rel="icon" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
