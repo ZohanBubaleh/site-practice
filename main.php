@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>Главная страница проекта Зохана по прозвищу Сладкий Буболех</title>
-<base href="https://f0746162.xsph.ru/" />						
+<base href="http://f0746162.xsph.ru/" />						
 <meta name="description" content="Сладкий Буболех где купить в Ростове-на-Дону газировку лучшее детское щампанское" />
 <meta name="keywords" content="Газированный напиток, Сладкий Буболех, шипучка, запивон, газировка, сладкая вода, детское шампанское"/>
 <meta name="viewport" content="width=device-width, initial-scale=0.1, user-scalable=yes"/>
@@ -17,7 +17,7 @@
 <meta property="og:description" content="Сладкий Буболех где купить в Ростове-на-Дону газировку лучшее детское щампанское"/>
 <meta property="og:locale" content="ru_RU"/>
 <meta property="og:restrictions:age" content="14+"/>
-<meta property="og:image" content="https://github.com/ZohanBubaleh/site-practice/blob/main/img/Avatar-Glaza.jpg"/>
+<meta property="og:image" content="http://f0746162.xsph.ru/img/Avatar-Glaza.jpg"/>
 <meta name="cypr-verification" content="e9406c61b00e8df9a071a51f9e24de26"/>
 <meta name="cypr-verification" content="43627181651f8019f600ccba2d19f1d9"/>
 <meta name="msvalidate.01" content="E199666794EC9D7740D333182984537A"/>
@@ -28,7 +28,7 @@
 <link rel="dns-prefetch" href="//f0746162.xsph.ru/">
 <link rel="dns-prefetch" href="//google-analytics.com/">
 <link rel="dns-prefetch" href="//www.googletagmanager.com/">
-<link href="https://f0746162.xsph.ru/img/faviconcola.png" rel="icon" />
+<link href="http://f0746162.xsph.ru/img/faviconcola.png" rel="icon" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
