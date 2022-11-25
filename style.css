@@ -8,7 +8,8 @@ body {
 .greetings,
 p,
 h1, 
-h2 {
+h2,
+text{
     font-family: tahoma, verdana, serif;
     }
 
