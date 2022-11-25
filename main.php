@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>Главная страница проекта Зохана по прозвищу Сладкий Буболех</title>
-<base href="https://zohanbuboleh.ru/" />						
+<base href="https://f0746162.xsph.ru/" />						
 <meta name="description" content="Сладкий Буболех где купить в Ростове-на-Дону газировку лучшее детское щампанское" />
 <meta name="keywords" content="Газированный напиток, Сладкий Буболех, шипучка, запивон, газировка, сладкая вода, детское шампанское"/>
 <meta name="viewport" content="width=device-width, initial-scale=0.1, user-scalable=yes"/>
@@ -11,9 +11,9 @@
 <meta name='MobileOptimized' content='width'/>
 <meta name='apple-mobile-web-app-capable' content='yes'/>
 <meta property="og:type" content="website"/>
-<meta property="og:site_name" content="zohanbuboleh.ru"/>
+<meta property="og:site_name" content="f0746162.xsph.ru"/>
 <meta property="og:title" content="Главная страница проекта Зохана по прозвищу Сладкий Буболех zohanbuboleh.ru"/>
-<meta property="og:url" content="https//zohanbuboleh.ru/"/>
+<meta property="og:url" content="f0746162.xsph.ru"/>
 <meta property="og:description" content="Сладкий Буболех где купить в Ростове-на-Дону газировку лучшее детское щампанское"/>
 <meta property="og:locale" content="ru_RU"/>
 <meta property="og:restrictions:age" content="14+"/>
@@ -22,13 +22,13 @@
 <meta name="cypr-verification" content="43627181651f8019f600ccba2d19f1d9"/>
 <meta name="msvalidate.01" content="E199666794EC9D7740D333182984537A"/>
 <meta name="p:domain_verify" content="16a57f5b512a4490999accf651c1bb76"/>
-<link rel="preconnect" href="//zohanbubolwh.ru/">
+<link rel="preconnect" href="//f0746162.xsph.ru/">
 <link rel="preconnect" href="//google-analytics.com/">
 <link rel="preconnect" href="//www.googletagmanager.com/">
-<link rel="dns-prefetch" href="//zohanbubolwh.ru/">
+<link rel="dns-prefetch" href="//f0746162.xsph.ru/">
 <link rel="dns-prefetch" href="//google-analytics.com/">
 <link rel="dns-prefetch" href="//www.googletagmanager.com/">
-<link href="https://github.com/ZohanBubaleh/site-practice/blob/main/img/faviconcola.png" rel="icon" />
+<link href="https://f0746162.xsph.ru/img/faviconcola.png" rel="icon" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -41,7 +41,7 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width="200" height="200">'; ?>                    
+                    <?php  echo '<img src="/img/Avatar-Glaza.jpg">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
