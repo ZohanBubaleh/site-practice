@@ -43,7 +43,7 @@
                     <p> Меня зовут 
                     <?php echo $name, ' ', $surname . '<br>';
                           echo $feikname . '<br>';  
-                          echo 'город', ' ', $city; ?>                                      
+                          echo 'Я из города', ' ', $city; ?>                                      
                     </p> 
                     <p> Мне
                     <?php  echo $age;   ?>          
