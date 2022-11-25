@@ -41,11 +41,11 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Avatar-Glaza.jpg">'; ?>                    
+                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" width="200" height="200">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
-                    <?php echo $name, ' ', $surname . '<br>' $feikname. '<br>'; 
+                    <?php echo $name, ' ', $surname . '<br>';  
                           echo 'город', ' ', $city; ?>                                      
                     </p> 
            
@@ -63,8 +63,8 @@
                     <?php   echo $a, ' ', $b, ' ', $c; ?> <br>
                                        
                     <?php
-                        $a = 10;
-                        $b = 20;
+                        $a = 11;
+                        $b = 21;
                         $c = $a + $b;
                         echo $c;
                     ?>   <br>                
@@ -76,9 +76,9 @@
 
             <div class="article">
                 <p class="text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Recusandae asperiores ducimus dolore explicabo. Animi est amet quibusdam molestias! 
-                    Minus laudantium sapiente dignissimos possimus natus cumque delectus sed, accusantium totam quia?
+                    Самурай без меча, подобен Самураю с мечои, но только без меча.<br> 
+                    Порко мадонна бесто кемале камдураля!<br> 
+                    Извините, погорячился!
                 </p>
             </div>
         </div>
