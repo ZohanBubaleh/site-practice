@@ -28,7 +28,7 @@
 <link rel="dns-prefetch" href="//f0746162.xsph.ru/">
 <link rel="dns-prefetch" href="//google-analytics.com/">
 <link rel="dns-prefetch" href="//www.googletagmanager.com/">
-<link href="http://f0746162.xsph.ru/img/faviconcola.png" rel="icon" />
+<link href="http://f0746162.xsph.ru/img/favicon.ico rel="icon" />
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -41,7 +41,7 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width="200" height="200">'; ?>                    
+                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width="300" height="300">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
