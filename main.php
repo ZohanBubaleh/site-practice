@@ -41,19 +41,20 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width="250" height="250">'; ?>                    
+                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width="300" height="300">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
-                    <?php echo $name, ' ', $surname . '<br>';  
+                    <?php echo $name, ' ', $surname . '<br>';
+                          echo $feikname . '<br>';  
                           echo 'город', ' ', $city; ?>                                      
                     </p> 
            
                     <p> Мне
                     <?php  echo $age;   ?>          
-                    лет </p>
-                    <p> Мы научились создавать переменные </p>
-                    <p> Изучили простые операции с ними </p>
+                    года </p>
+                    <p> Я вместе с Вами училися создавать переменные </p>
+                    <p> Изучил простые операции с ними </p>
                 </div>
             </div>
 
