@@ -41,19 +41,19 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width="350" height="350">'; ?>                    
+                    <?php  echo '<img src="/img/Avatar-Glaza.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" width=400" height="400">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
-                    <?php echo $name, ' ', $surname . '<br>' '<br>';
-                          echo $feikname . '<br>' '<br>';  
+                    <?php echo $name, ' ', $surname . '<br> <br>';
+                          echo $feikname . '<br> <br>';  
                           echo 'город', ' ', $city; ?>                                      
                     </p> 
            
                     <p> Мне
                     <?php  echo $age;   ?>          
                     года </p>
-                    <p> Я вместе с Вами училися создавать переменные </p>
+                    <p> Я, вместе с Вами, училися создавать переменные </p>
                     <p> Изучил простые операции с ними </p>
                 </div>
             </div>
@@ -78,7 +78,7 @@
             <div class="article">
                 <p class="text" style="text-align: center;">
                     Самурай без меча, подобен Самураю с мечои, но только без меча.<br> 
-                    Порко мадонна бесто кемале камдураля!<br> 
+                    Порко мадонна бесто кемале камдураля!
                     Извините, погорячился!
                 </p>
             </div>
