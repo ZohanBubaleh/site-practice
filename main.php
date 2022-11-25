@@ -2,19 +2,19 @@
 <html prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# product: https://ogp.me/ns/product#' dir="ltr" lang="ru">
 <head>
 <meta charset="UTF-8" />
-<title>Главная страница проекта Зохана по прозвищу Сладкий Буболех</title>
+<title>Главная страница проекта Зохана по прозвищу Сладкий Бубалех</title>
 <base href="http://f0746162.xsph.ru/" />						
-<meta name="description" content="Сладкий Буболех где купить в Ростове-на-Дону газировку лучшее детское щампанское" />
-<meta name="keywords" content="Газированный напиток, Сладкий Буболех, шипучка, запивон, газировка, сладкая вода, детское шампанское"/>
+<meta name="description" content="Сладкий Бубалех где купить в Ростове-на-Дону газировку лучшее детское щампанское" />
+<meta name="keywords" content="Газированный напиток, Сладкий Бубалех, шипучка, запивон, газировка, сладкая вода, детское шампанское"/>
 <meta name="viewport" content="width=device-width, initial-scale=0.1, user-scalable=yes"/>
 <meta name='HandheldFriendly' content='true'/>
 <meta name='MobileOptimized' content='width'/>
 <meta name='apple-mobile-web-app-capable' content='yes'/>
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="f0746162.xsph.ru"/>
-<meta property="og:title" content="Главная страница проекта Зохана по прозвищу Сладкий Буболех zohanbuboleh.ru"/>
+<meta property="og:title" content="Главная страница проекта Зохана по прозвищу Сладкий Бубалех f0746162.xsph.ru"/>
 <meta property="og:url" content="f0746162.xsph.ru"/>
-<meta property="og:description" content="Сладкий Буболех где купить в Ростове-на-Дону газировку лучшее детское щампанское"/>
+<meta property="og:description" content="Сладкий Бубалех где купить в Ростове-на-Дону газировку лучшее детское щампанское"/>
 <meta property="og:locale" content="ru_RU"/>
 <meta property="og:restrictions:age" content="14+"/>
 <meta property="og:image" content="http://f0746162.xsph.ru/img/Avatar-Glaza.jpg"/>
@@ -37,7 +37,7 @@
           <h1><?php  echo $p  ?></h1>
             <div class="data">
                <div class="myImg">
-                    <?php  echo '<img src="/img/Fizzy-Bubaleh-2.jpg" alt="Сладкий Буболех - это Вам не фунт изюма" title="Сладкий Буболех - это Вам не фунт изюма" width=400" height="400">'; ?>                    
+                    <?php  echo '<img src="/img/Fizzy-Bubaleh-2.jpg" alt="Сладкий Бубалех - это Вам не фунт изюма" title="Сладкий Бубалех - это Вам не фунт изюма" width=400" height="400">'; ?>                    
                </div>
                   <div class="fullname">
                     <p> Меня зовут 
@@ -48,8 +48,7 @@
                     <p> Мне
                     <?php  echo $age;   ?>          
                     года </p>
-                    <p> Мы вместе учились создавать переменные. 
-                    Научились проводить простые операции с ними,
+                    <p> Мы вместе учились-учились и научились создавать переменные, а так же проводить простые операции с ними,
                     ниже и выше, приведены примеры функций и их вывода на страницу с помощью PHP</p>
                 </div>
             </div>
