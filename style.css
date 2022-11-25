@@ -12,6 +12,36 @@ h2,
 text{
     font-family: tahoma, verdana, serif;
     }
+h1 {
+    color: #08298A;
+    text-align: center;
+    font-size: 1.6rem;
+    }
+h2 {
+    text-align: center;
+    color: #FFFFff;
+    }
+p {
+    font-size: 1.2rem;
+    color: #08298A;
+    padding-left: 20px;
+    }
+ul  {
+    display: flex;
+    list-style-type: none;
+    }
+
+ul li {
+    margin-right: 20px;
+    }
+
+li a {
+    text-decoration: none;
+    font-family: tahoma, verdana, serif;
+    font-size: 1.4rem;
+    color: #FFFFff;
+    font-weight: 800;
+    }
 
 .flex-container {
     display: flex;
@@ -30,23 +60,6 @@ text{
     height: 20%;
     margin-bottom: 3em;
     background-color: #5D366D;
-    }
-
-ul  {
-    display: flex;
-    list-style-type: none;
-    }
-
-ul li {
-    margin-right: 20px;
-    }
-
-li a {
-    text-decoration: none;
-    font-family: tahoma, verdana, serif;
-    font-size: 1.4rem;
-    color: #FFFFff;
-    font-weight: 800;
     }
 
 .logo img {
@@ -88,28 +101,10 @@ li a {
     margin-top: 2em;   
     }
 
-
-p {
-    font-size: 1.2rem;
-    color: #08298A;
-    padding-left: 20px;
-    }
-
 .text {
     font-family: tahoma, verdana, serif;
     font-size: 1.2rem;
     color: #585858;
-    }
-
-h2 {
-    text-align: center;
-    color: #FFFFff;
-    }
-
-h1 {
-    color: #08298A;
-    text-align: center;
-    font-size: 1.6rem;
     }
 
 .footer {
