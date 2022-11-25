@@ -18,10 +18,6 @@
 <meta property="og:locale" content="ru_RU"/>
 <meta property="og:restrictions:age" content="14+"/>
 <meta property="og:image" content="http://f0746162.xsph.ru/img/Avatar-Glaza.jpg"/>
-<meta name="cypr-verification" content="e9406c61b00e8df9a071a51f9e24de26"/>
-<meta name="cypr-verification" content="43627181651f8019f600ccba2d19f1d9"/>
-<meta name="msvalidate.01" content="E199666794EC9D7740D333182984537A"/>
-<meta name="p:domain_verify" content="16a57f5b512a4490999accf651c1bb76"/>
 <link rel="preconnect" href="//f0746162.xsph.ru/">
 <link rel="preconnect" href="//google-analytics.com/">
 <link rel="preconnect" href="//www.googletagmanager.com/">
@@ -49,7 +45,6 @@
                           echo $feikname . '<br> <br>';  
                           echo 'город', ' ', $city; ?>                                      
                     </p> 
-           
                     <p> Мне
                     <?php  echo $age;   ?>          
                     года </p>
@@ -59,10 +54,8 @@
             </div>
 
             <div class="knowledge">
-                                   
                     <?php  include 'knowledge.inc.php'; ?>
                     <?php   echo $a, ' ', $b, ' ', $c; ?> <br>
-                                       
                     <?php
                         $a = 8;
                         $b = 9;
@@ -72,7 +65,6 @@
                      <?php
                         echo $d;
                     ?> 
-
             </div>
 
             <div class="article">
@@ -83,9 +75,7 @@
                 </p>
             </div>
         </div>
-
             <?php include 'footer.inc.php' ?>
-
     </div>
 </body>
 </html>
