@@ -1,0 +1,2 @@
+DirectoryIndex index.php
+php_value display_errors 1
